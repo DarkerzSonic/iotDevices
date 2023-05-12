@@ -1,5 +1,4 @@
 <template>
-    Testing {{ id.id }}
     <h1>Update Device</h1>
     <div class="container mb-3">
         <form action="">
