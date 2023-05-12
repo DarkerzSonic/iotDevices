@@ -1,4 +1,5 @@
-# ui
+# Frontend UI
+Developed with Vue.JS, Bootstrap & Axios.
 
 ## Project setup
 ```
@@ -10,10 +11,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Access Frontend UI
 ```
-npm run build
+App running at:
+- Local:   http://localhost:8080/
+- Network: http://192.168.100.10:8080/
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
