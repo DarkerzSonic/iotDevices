@@ -1,8 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link :to="{name: 'Create'}">Add Device</router-link> | 
-    <router-link :to="{name: 'List'}">List</router-link>
+    <router-link :to="{name: 'Create'}">Add Device</router-link> 
   </nav>
   <router-view/>
 </template>
